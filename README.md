@@ -2,6 +2,12 @@
 
 Welcome to the Othello Game, a two-player strategy game featuring an interactive GUI, multiple gameplay modes, and extendable features. This project uses Java with the MVC architecture and popular design patterns to deliver a clean and maintainable experience.
 
+![Screenshot 2025-01-19 at 9 49 59 PM](https://github.com/user-attachments/assets/364200ee-c3f9-4d42-b5ca-a49ef4c49a4c)
+
+![Screenshot 2025-01-19 at 9 50 12 PM](https://github.com/user-attachments/assets/5022993e-fcca-45b6-9e61-42b06607cc33)
+
+![Screenshot 2025-01-19 at 9 51 17 PM](https://github.com/user-attachments/assets/ae473b96-d270-4f2f-91f5-cc9460bdf908)
+
 ## Features
 
 - **Game Modes**:
